@@ -12,4 +12,5 @@ def wymiana(pierwszy):
 pierwszy=input()
 wymiana(pierwszy)
 
+
 Print(„Wszystkiego najlepszego”)
