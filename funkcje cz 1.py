@@ -9,3 +9,4 @@ def wymiana(pierwszy):
 
 pierwszy=input()
 wymiana(pierwszy)
+Print(„wszystkiego najlepszego”)
