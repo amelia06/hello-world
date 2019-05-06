@@ -1,3 +1,5 @@
+
+
 def wymiana(pierwszy):
     lista=list(pierwszy)
     pierwsza_litera=lista[0]
@@ -9,4 +11,6 @@ def wymiana(pierwszy):
 
 pierwszy=input()
 wymiana(pierwszy)
-Print(„wszystkiego najlepszego”)
+
+
+Print(„Wszystkiego najlepszego”)
